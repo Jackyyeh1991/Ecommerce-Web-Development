@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "version-1c4aa",
+    "build": "version-1c4aa"
+  },
+  "targets": {}
+}
